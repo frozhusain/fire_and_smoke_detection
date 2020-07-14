@@ -1,14 +1,5 @@
 # fire_and_smoke_detection
 
-# Dataset
-An image dataset for training fire and frame detection AI
-<strong> Fire-Flame-Dataset </strong> is a dataset collected in order to train machine learning model to recognize Fire, smoke, and neutral(images without fire or smoke).This a dataset containing about 3000 images and 3 classes which include:
-* Fire 
-* Smoke
-* neutral 
-<br>
-
-There are 1000 images in each category and 900 for train and 100 for testing
 
 ### Training and Prediction
  
@@ -26,9 +17,19 @@ The implementation code in which the model was train with has been provide in th
 
 
 ### Reqirements
-___
+
 * Python 3
 * Pytorch
 * Numpy
 * Matplotlib
 * TorchFussion
+
+# Dataset
+An image dataset for training fire and frame detection AI
+<strong> Fire-Flame-Dataset </strong> is a dataset collected in order to train machine learning model to recognize Fire, smoke, and neutral(images without fire or smoke).This a dataset containing about 3000 images and 3 classes which include:
+* Fire 
+* Smoke
+* neutral 
+<br>
+
+There are 1000 images in each category and 900 for train and 100 for testing
