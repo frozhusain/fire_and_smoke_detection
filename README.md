@@ -15,13 +15,13 @@ There are 1000 images in each category and 900 for train and 100 for testing
 The implementation code in which the model was train with has been provide in this repository. The model was trained with train with resnet50 and a accuracy of 85% on the test data was achieved. The python codebase is contained in fireandsmoke.ipynb. 
 
 <strong>Some of the prediction results are shown below:</strong> <br>
-![fire](./results/fire.jpg)
+![fire](./results/fire.png)
 > ('Image of:', 'Class: Fire', 'Confidence score: 1.0') 
 
-![nuetral](./results/nuetral.jpg)
+![nuetral](./results/nuetral.png)
 > ('Image of:', 'Class: Fire', 'Confidence score: 0.990234375') 
 
-![smoke](./results/smoke.jpg)
+![smoke](./results/smoke.png)
 > ('Image of:', 'Class: Neutral', 'Confidence score: 0.99365234375') 
 
 
