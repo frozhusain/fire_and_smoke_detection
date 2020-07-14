@@ -19,10 +19,10 @@ The implementation code in which the model was train with has been provide in th
 > ('Image of:', 'Class: Fire', 'Confidence score: 1.0') 
 
 ![nuetral](./results/nuetral.png)
-> ('Image of:', 'Class: Fire', 'Confidence score: 0.990234375') 
+> ('Image of:', 'Class: neutral', 'Confidence score: 0.99365234375') 
 
 ![smoke](./results/smoke.png)
-> ('Image of:', 'Class: Neutral', 'Confidence score: 0.99365234375') 
+> ('Image of:', 'Class: smoke', 'Confidence score: 0.8271484375') 
 
 
 ### Reqirements
